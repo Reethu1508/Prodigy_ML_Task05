@@ -33,7 +33,7 @@ Outline of the Task:
 7. Deployment:
    - Deploy the model on a suitable platform, ensuring accessibility and responsiveness.
    - Implement security measures to protect user data and privacy.
-   - 
+     
 Knowledge Gained:
 
 1. Computer Vision and CNNs:
